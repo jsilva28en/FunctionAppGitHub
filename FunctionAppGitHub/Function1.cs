@@ -17,7 +17,8 @@ namespace FunctionAppGitHub
             log.Info("C# HTTP trigger function processed a request.");
 
             string name = req.Query["name"];
-
+            string mofify = "";
+            //test dgfuywgduyft8w gru
             string requestBody = new StreamReader(req.Body).ReadToEnd();
             dynamic data = JsonConvert.DeserializeObject(requestBody);
             name = name ?? data?.name;
