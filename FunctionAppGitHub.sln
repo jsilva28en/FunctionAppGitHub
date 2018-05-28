@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppGitHub", "FunctionAppGitHub\FunctionAppGitHub.csproj", "{C78518EF-A535-4268-9FB3-79B280180C04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C78518EF-A535-4268-9FB3-79B280180C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78518EF-A535-4268-9FB3-79B280180C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78518EF-A535-4268-9FB3-79B280180C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78518EF-A535-4268-9FB3-79B280180C04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5826900C-6B9F-438B-8E1A-BC135089693D}
+	EndGlobalSection
+EndGlobal
